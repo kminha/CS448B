@@ -1,10 +1,4 @@
-Year,number,"Lowest
-fifth","Second
-fifth","Third
-fifth","Fourth
-fifth","Highest
-fifth","Top 5
-percent",
+Year,number,"Lowestfifth","SecondFifth","ThirdFifth","FourthFifth","HighestFifth","Top5percent",
 2020,"129,931",3.0,8.1,14.0,22.6,52.3,23,
 2019,"128,451",3.1,8.2,14.1,22.7,51.9,23,
 2018,"128,579",3.1,8.2,14.1,22.6,52.0,23.1,
