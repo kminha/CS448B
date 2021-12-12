@@ -42,10 +42,10 @@
 18,college.1,0,Median,90000,college
 19,college.2,0,Median,90000,college
 20,college.3,0,Median,90000,college
-21,gradschool.1,0,Median,90000,college
-22,gradschool.2,0,Median,90000,grad
-23,gradschool.3,0,Median,90000,grad
-24,gradschool.4,0,Median,90000,grad
-25,gradschool.5,0,Median,90000,grad
-26,gradschool.6,0,Median,90000,grad
-27,gradschool.7,0,Median,90000,grad
+21,college.4,0,Median,90000,college
+22,gradschool.1,0,Median,90000,grad
+23,gradschool.2,0,Median,90000,grad
+24,gradschool.3,0,Median,90000,grad
+25,gradschool.4,0,Median,90000,grad
+26,gradschool.5,0,Median,90000,grad
+27,gradschool.6,0,Median,90000,grad
